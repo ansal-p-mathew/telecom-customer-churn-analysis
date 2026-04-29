@@ -11,7 +11,7 @@ Excel
 ### Key Features
 Data cleaning and preprocessing
 Exploratory data analysis (EDA)
-Churn trend and customer segmentation analysis
+Churn rend and customer segmentation analysis
 Interactive Power BI dashboard
 Predictive churn modeling
 Business recommendations for retention strategy
