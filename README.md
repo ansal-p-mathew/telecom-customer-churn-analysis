@@ -20,14 +20,5 @@ Business recommendations for retention strategy
 
 IBM Telco Customer Churn Dataset
 
-### Key Features
-Data cleaning and preprocessing
-Exploratory data analysis (EDA)
-Churn rend and customer segmentation analysis
-Interactive Power BI dashboard
-Predictive churn modeling
-Business recommendations for retention strategy
+#### Key features coming soon
 
-### Dataset
-
-IBM Telco Customer Churn Dataset
