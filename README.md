@@ -20,5 +20,3 @@ Business recommendations for retention strategy
 
 IBM Telco Customer Churn Dataset
 
-#### Key features coming soon
-
