@@ -27,7 +27,7 @@ IBM Telco Customer Churn Dataset
 * Build dashboard for decision-makers
 * Predict churn probability
 
-## Business KPIs
+## Businesss KPIs
 * Churn Rate
 * Retention Rate
 * Avg Monthly Revenue
