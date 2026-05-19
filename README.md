@@ -1,6 +1,6 @@
 ## Telecom Customer Churn Analysis
 
-This capstone project analyzes customer churn in the telecom industry using the IBM Telco Customer Churn dataset. The objective is to understand why customers leave, identify high-risk segments, and provide data-driven recommendations to improve retention.
+This capstone project analyzes customer churn in the telecom industry using the IBM Telco Customer Churn dataset. The objective is to understand why customers leave, identify high-risk segments, and provide data-driven recommendations to improve retention
 
 ### Tools Used
 * SQL
