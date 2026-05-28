@@ -34,5 +34,5 @@ IBM Telco Customer Churn Dataset
 * Avg Monthly Revenue
 * Churn by Contract Type
 * Churn by Payment Method
-* Churn by Tenure Group
+* Churn by Tenure Group.
 
