@@ -17,7 +17,7 @@ This capstone project analyzes customer churn in the telecom industry using the 
 * Predictive churn modeling
 * Business recommendations for retention strategy
 
-### Dataset
+### Dataset.
 
 IBM Telco Customer Churn Dataset
 
