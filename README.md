@@ -5,7 +5,7 @@ This capstone project analyzes customer churn in the telecom industry using the 
 * SQL
 * Python (Pandas, Matplotlib, Scikit-learn)
 * Power BI
-* Excel.
+* Excel
 
 
 ### Key Features
